@@ -1,1 +1,1 @@
-# bat-token-subgraph
+# BAT Token Subgraph
