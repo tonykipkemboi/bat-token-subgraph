@@ -1,5 +1,5 @@
 # BAT Token Subgraph
-This is code that I used to generate a sugraph for the BRAVE Token a.k.a. $BAT
+This is code that I used to generate a sugraph for the BRAVE Token a.k.a. $BAT: tracking transfer events only for now. Will probably upgrade to capture other metrics.
 
 Check out the subgraph here: https://thegraph.com/hosted-service/subgraph/tonykipkemboi/bat-token
 
